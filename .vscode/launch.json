@@ -6,7 +6,7 @@
         "name": "antlr4",
         "type": "antlr-debug",
         "request": "launch",
-        "input": "input.lang",
+        "input": "input.txt",
         "grammar": "${file}",
         "startRule": "prog",
         "printParseTree": true,
