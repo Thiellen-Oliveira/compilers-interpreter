@@ -1,0 +1,12 @@
+x = 10 +20;
+write "o resultado de x é:";
+write x;
+
+//while
+//(x < 20)
+//do
+//{
+  //  x = x+1;
+    //write "o resultado do contador é";
+    //write x;
+//}
